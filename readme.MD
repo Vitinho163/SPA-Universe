@@ -22,4 +22,4 @@ Você pode conferir o design do projeto no Figma através deste [link para o pro
 
 ## Como visualizar o projeto
 
-Você pode acessar o projeto ao vivo através do seguinte [link para visualizar o projeto ao vivo](https://vitinho163.github.io/).
+Você pode acessar o projeto ao vivo através do seguinte [link para visualizar o projeto ao vivo](https://spa-universe-2e772a1o9-vitinho163.vercel.app/).
