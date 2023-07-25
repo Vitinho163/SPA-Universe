@@ -1,0 +1,44 @@
+@import url('../../style.css');
+
+.content {
+  margin: 0 auto;
+  margin-top: 17.2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  animation: topdown 700ms 350ms backwards;
+}
+
+.button {
+  padding: 1.2rem 3.2rem;
+  border: 2px solid var(--color-white);
+  background: transparent;
+  color: var(--color-white);
+  border-radius: 5px;
+  margin-top: 2.4rem;
+
+
+  text-align: center;
+  font-size: 1.4rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 2.4rem; /* 171.429% */
+  text-transform: uppercase;
+  
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: var(--color-white);
+  color: var(--btn-hover);
+
+  /* animation */
+  transform: scale(1.1);
+  transition: all .3s ease;
+}
+
+nav a:nth-child(2) {
+  color: var(--color-white);
+  font-size: 2.4rem;
+  font-weight: 700;
+}
